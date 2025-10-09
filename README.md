@@ -12,7 +12,7 @@ If I had to keep one song for the rest of my life, it would be [this one ](#http
  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,linux,git,github,gitlab,vscode,pycharm,tensorflow,pytorch,azure,mongodb,opencv,matlab,unity" />
+  <img src="https://skillicons.dev/icons?i=python,linux,git,github,tensorflow,pytorch,opencv" />
 </p>
 
 ---
