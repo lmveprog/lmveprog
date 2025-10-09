@@ -16,13 +16,11 @@ If I had to keep one song for the rest of my life, it would be [this one](https:
 
 ---
 
-## 💡 Current Projects
-- 🧩 Building AI-powered applications
-- 🎬 Producing educational & entertaining tech content
-- 🤖 Exploring neural architectures and generative models
+## 📫 Reach Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/mathieu-astruc/)  
+- 🧑‍💻 [Portfolio](https://mathieuastruc.com/)
 
 ---
 
-## 📫 Reach Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/mathieu-astruc/)
-- 🧑‍💻 [Portfolio](https://mathieuastruc.com/)
+Most of my repositories and collaborations are private.  
+If my profile or work interests you, feel free to reach out — I’ll be glad to share more about my projects.
