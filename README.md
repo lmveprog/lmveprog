@@ -3,7 +3,7 @@
 🎓 I am an **engineering student** who wants to specialize in **artificial intelligence**.  
 🚀 Passionate about **Generative AI** and **complex, challenging projects** that push my creativity.
 
-If you’re curious about my projects, check them out [here](https://mathieuastruc.com/SRC/pages/career.html)  
+If you’re curious about my projects, check them out [here](https://mathieuastruc.com/)
  
 ---
 
