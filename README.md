@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Mathieu!
 
 🎓 I am an **engineering student** who wants to specialize in **artificial intelligence**.  
-🚀 Passionate about **Generative AI** and **complex, challenging projects** that push my creativity.
+🚀 Passionate about data science, machine learning and ofc challenging projects that push my creativity.
 
 If you’re curious about my projects, check them out [here](https://mathieuastruc.com/)
  
