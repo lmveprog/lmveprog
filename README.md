@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Mathieu!
 
-🎓 I am an **engineering student** who wants to specialize in **artificial intelligence**.  
+🎓 I am an **engineering student** who wants to specialize in **data science**.  
 🚀 Passionate about data science, machine learning and ofc challenging projects that push my creativity.
 
 If you’re curious about my projects, check them out [here](https://mathieuastruc.com/)
