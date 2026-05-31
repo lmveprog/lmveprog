@@ -52,10 +52,3 @@ More on my [portfolio](https://mathieuastruc.com/projects).
 **ML / CV** · `PyTorch` · `TensorFlow` · `Scikit-learn` · `OpenCV` · `Transformers`
 **LLM** · `LangChain` · `LlamaIndex` · `Fine-tuning (LoRA / QLoRA)` · `FAISS` · `Chroma`
 **Serving** · `vLLM` · `llama.cpp` · `FastAPI` · `Docker` · `Kubernetes`
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lmveprog&show_icons=true&hide_border=true&count_private=true&theme=dark&bg_color=00000000" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmveprog&layout=compact&hide_border=true&theme=dark&bg_color=00000000" height="150" alt="top langs" />
-</p>
