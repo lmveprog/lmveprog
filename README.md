@@ -15,14 +15,27 @@
 
 ### Now
 
-Working for **Airbus** (Master's thesis) right now 
+Working for **Airbus** (Master's thesis) right now.
 
-Before that: an embedded AI stack for a humanoid robot at **NTNU** (real-time gesture recognition + a fine-tuned LLM for dialogue), and OCR / data work at **Banque de France**. 
+Before that: an embedded AI stack for a humanoid robot at **NTNU** (real-time gesture recognition + a fine-tuned LLM for dialogue), and OCR / data work at **Banque de France**.
 Lead author of a paper accepted at **HCI International 2026** on real-time computer vision for gesture recognition.
 
 ### What I'm digging into
 
 Beyond shipping things, I genuinely like the research side — currently reading and tinkering around **LLMs and world-model architectures**: how models build internal representations of an environment, and where that meets planning, agents and multimodal reasoning. Long-term that's the direction I want to push.
+
+---
+
+### Projects
+
+- **Humanoid robot interaction stack** *(NTNU)* — embedded AI combining real-time gesture recognition, computer vision and a fine-tuned LLM for dialogue, with GPU latency tuning. [Demo](https://youtu.be/QZ8oGMaRq6M) · [Gesture/dialogue](https://youtu.be/bfIvyZvMxsA)
+- **HCI International 2026 publication** — lead author on real-time hand gesture recognition for human-robot interaction *(Springer Proceedings)*
+- **Industrial OCR pipeline** *(Comat Specific)* — deep-learning OCR turning legacy hand-drawn 2D engineering sketches into structured data
+- **SME loan risk classification** — won a Kaggle-style challenge with a credit-decision classifier optimized on Macro F1
+- **Cognitive dependence on virtual assistants** — co-authored study on AI assistants' impact on student learning, with a custom fine-tuned LLM
+- **Noise-aware clustering** — exploratory analysis + DBSCAN tuning on a noisy dataset
+
+More on my [portfolio](https://mathieuastruc.com/projects).
 
 ---
 
@@ -43,6 +56,6 @@ Beyond shipping things, I genuinely like the research side — currently reading
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lmveprog&show_icons=true&hide_border=true&count_private=true&theme=transparent" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmveprog&layout=compact&hide_border=true&theme=transparent" height="150" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lmveprog&show_icons=true&hide_border=true&count_private=true&theme=dark&bg_color=00000000" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmveprog&layout=compact&hide_border=true&theme=dark&bg_color=00000000" height="150" alt="top langs" />
 </p>
