@@ -1,8 +1,7 @@
 <h1 align="center">Mathieu Astruc</h1>
 
 <p align="center">
-  Data Science engineering student building applied AI systems, with a growing focus on research.<br>
-  RAG, document AI, computer vision, LLM orchestration — the plumbing that makes models actually useful.
+  Data Science engineering student building applied AI systems, and genuinely interested in the research behind them.<br>
 </p>
 
 <p align="center">
