@@ -34,6 +34,7 @@ Beyond shipping things, I genuinely like the research side — currently reading
 - **SME loan risk classification** — won a Kaggle-style challenge with a credit-decision classifier optimized on Macro F1
 - **Cognitive dependence on virtual assistants** — co-authored study on AI assistants' impact on student learning, with a custom fine-tuned LLM
 - **Noise-aware clustering** — exploratory analysis + DBSCAN tuning on a noisy dataset
+- other ongoing projects...
 
 More on my [portfolio](https://mathieuastruc.com/projects).
 
