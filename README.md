@@ -22,7 +22,7 @@ I'm the lead author of a paper accepted at **HCI International 2026** on real-ti
 
 ### What I'm digging into
 
-Beyond shipping systems, I’m increasingly interested in the research side of AI — especially **LLMs and world-model architectures**: how models build internal representations of their environment, and where that connects with planning, agents, and multimodal reasoning.
+Beyond shipping systems, I’m increasingly interested in the research side of AI, especially **LLMs and world-model architectures**: how models build internal representations of their environment, and where that connects with planning, agents, and multimodal reasoning.
 
 Long-term, that is the direction I want to push toward.
 
@@ -30,12 +30,12 @@ Long-term, that is the direction I want to push toward.
 
 ### Projects
 
-- **Humanoid robot interaction stack** *(NTNU)* — embedded AI combining real-time gesture recognition, computer vision, and a fine-tuned LLM for dialogue, with GPU latency tuning. [Demo](https://youtu.be/QZ8oGMaRq6M) · [Gesture/dialogue](https://youtu.be/bfIvyZvMxsA)
-- **HCI International 2026 publication** — lead author on real-time hand gesture recognition for human-robot interaction *(Springer Proceedings)*
-- **Industrial OCR pipeline** *(Comat Specific)* — deep-learning OCR turning legacy hand-drawn 2D engineering sketches into structured data
-- **SME loan risk classification** — won a Kaggle-style challenge with a credit-decision classifier optimized on Macro F1
-- **Cognitive dependence on virtual assistants** — co-authored a study on AI assistants' impact on student learning, with a custom fine-tuned LLM
-- **Noise-aware clustering** — exploratory analysis and DBSCAN tuning on a noisy dataset
+- **Humanoid robot interaction stack** *(NTNU)*: embedded AI combining real-time gesture recognition, computer vision, and a fine-tuned LLM for dialogue, with GPU latency tuning. [Demo](https://youtu.be/QZ8oGMaRq6M) · [Gesture/dialogue](https://youtu.be/bfIvyZvMxsA)
+- **HCI International 2026 publication**: lead author on real-time hand gesture recognition for human-robot interaction *(Springer Proceedings)*
+- **Industrial OCR pipeline** *(Comat Specific)*: deep-learning OCR turning legacy hand-drawn 2D engineering sketches into structured data
+- **SME loan risk classification**: won a Kaggle-style challenge with a credit-decision classifier optimized on Macro F1
+- **Cognitive dependence on virtual assistants**: co-authored a study on AI assistants' impact on student learning, with a custom fine-tuned LLM
+- **Noise-aware clustering**: exploratory analysis and DBSCAN tuning on a noisy dataset
 - Other ongoing projects...
 
 More on my [portfolio](https://mathieuastruc.com/projects).
@@ -44,7 +44,7 @@ More on my [portfolio](https://mathieuastruc.com/projects).
 
 <p align="center">
   <strong>Most of my repositories and collaborations are private.</strong><br>
-  If something here interests you, reach out — I'll be glad to share more about my work.
+  If something here interests you, reach out, I'll be glad to share more about my work.
 </p>
 
 ---
