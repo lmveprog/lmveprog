@@ -17,9 +17,9 @@
 
 Currently working on my Master's thesis at **Airbus**.
 
-Previously built AI systems for **humanoid robots at NTNU**, combining computer vision, real-time inference and LLMs.
+Previously built AI systems for **humanoid robots**, combining computer vision, real-time inference and LLMs.
 
-Interested in **LLMs, multimodal AI and world models**.
+Interested in **LLMs, multimodal AI and many things**.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" />
