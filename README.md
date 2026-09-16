@@ -4,6 +4,7 @@ applied ai engineer / fde. prev. airbus.
 
 i love competition. i played basketball at a high level for years, these days i get my fix at hackathons.
 if you've got a project and think i could help, feel free to reach out on [linkedin](https://www.linkedin.com/in/mathieu-astruc/) or [x](https://x.com/matheusnpu), always happy to build stuff.
+you can also check out my full portfolio at [mathieuastruc.com](https://mathieuastruc.com).
 
 &nbsp;
 
