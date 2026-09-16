@@ -1,28 +1,61 @@
-<h1 align="center">helllo, I'm Mathieu</h1>
+### hey, i'm mathieu
 
-<p align="center">
-  <em>Passionate Applied AI Engineer — machine learning, robotics & intelligent systems.</em>
-</p>
+applied ai engineer / fde. prev. airbus.
 
-<p align="center">
-  <a href="https://mathieuastruc.com"><img src="https://img.shields.io/badge/Website-mathieuastruc.com-0a0a0a?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mathieu-astruc"><img src="https://img.shields.io/badge/LinkedIn-Mathieu%20Astruc-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-</p>
+i love competition. i played basketball at a high level for years, these days i get my fix at hackathons.
+if you've got a project and think i could help, feel free to reach out, always happy to build stuff.
 
----
+[mathieuastruc.com](https://mathieuastruc.com) · [linkedin](https://www.linkedin.com/in/mathieu-astruc/) · [x](https://x.com/matheusnpu) · [mail](mailto:mathastruc@gmail.com)
 
-### 🧠 About
+&nbsp;
 
-- 🎓 Currently working on my **Master's thesis at Airbus**
-- 🤖 Previously built AI systems for **humanoid robots** — computer vision, real-time inference & LLMs
-- 🔬 Interested in **LLMs, multimodal AI** and everything in between
-- ⚡ I like shipping things that actually run in the real world 
+#### projects
 
- 
+<table>
+  <tr>
+    <td width="64%">
+      <img src="assets/mistral.png" width="18" align="top"> <b><a href="https://github.com/MistralGagnant/impostralv2">Impostral</a></b><br>
+      Mistral agents infiltrating a real-time social deduction game. 1st in our track, finalist at the Mistral AI Hackathon.<br>
+      <a href="https://youtu.be/wsBaHW688Lc">demo</a>
+    </td>
+    <td align="center">
+      <img src="assets/impostral-win.jpg" width="220" alt="the impostral team with the mistral trophies"><br>
+      <sub>track winner · mistral ai hackathon 2026</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="64%">
+      <img src="assets/humanoid.png" width="18" align="top"> <b><a href="https://youtu.be/QZ8oGMaRq6M">Humanoid robot interaction stack</a></b><br>
+      Gesture recognition and an embedded LLM running on a humanoid robot at NTNU.<br>
+      <a href="https://youtu.be/QZ8oGMaRq6M">video</a>
+    </td>
+    <td align="center">
+      <img src="assets/nao.jpg" width="220" alt="me holding the nao robot at ntnu"><br>
+      <sub>with nao · ntnu, norway 2025</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="64%">
+      <img src="assets/hcii.png" width="18" align="top"> <b><a href="https://link.springer.com/chapter/10.1007/978-3-032-29586-6_1">HCI International 2026 paper</a></b><br>
+      Lead author of an accepted HRI paper on real-time gesture recognition. Springer.
+    </td>
+    <td align="center"><a href="https://link.springer.com/chapter/10.1007/978-3-032-29586-6_1">paper</a></td>
+  </tr>
+  <tr>
+    <td width="64%">
+      <img src="assets/matheus.png" width="18" align="top"> <b>AI content creation</b><br>
+      Breaking down AI concepts and news for 45k+ followers.
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/matheusgen_/">instagram</a> · <a href="https://www.tiktok.com/@matheusgen">tiktok</a> · <a href="https://www.youtube.com/@MatheusGen">youtube</a>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,cpp,docker,linux,git&theme=dark" />
-</p>
- 
+&nbsp;
 
- 
+#### hackathons
+
+| participated | finalist | track winner |
+| :---: | :---: | :---: |
+| **1** | **1** | **1** (top 3) |
