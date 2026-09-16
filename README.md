@@ -7,14 +7,10 @@ if you've got a project and think i could help, feel free to reach out, always h
 
 &nbsp;
 
-#### in progress
-
-**CutCutCut**<br>
-ai-assisted video editing: rough cut, subtitles, illustrations, zooms, and the render, all done by ai.
-
-&nbsp;
-
 #### projects
+
+**CutCutCut** · *in progress*<br>
+ai-assisted video editing: rough cut, subtitles, illustrations, zooms, and the render, all done by ai.
 
 <img src="assets/mistral.png" width="16" align="top"> **[Impostral](https://github.com/MistralGagnant/impostralv2)** · [demo](https://youtu.be/wsBaHW688Lc)<br>
 Mistral agents infiltrating a real-time social deduction game. 1st in our track, finalist at the Mistral AI Hackathon.
