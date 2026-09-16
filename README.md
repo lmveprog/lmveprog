@@ -28,6 +28,5 @@ Breaking down AI concepts and news for 45k+ followers.
 
 #### hackathons
 
-| participated | finalist | track winner |
-| :---: | :---: | :---: |
-| **1** | **1** | **1** (top 3) |
+**1** participated<br>
+**1** finalist (track winner, top 3 overall)
